@@ -1,0 +1,5 @@
+# Ignore local build artifacts and extra sources
+.DS_Store
+cajero.cpp
+cajero_run
+cajero_run_v2
